@@ -17,7 +17,7 @@ Excel COM Add-in interface supporting reading and writing bulk data to Infor M3.
 
 
 ## Installation
- XLL file requires no installation or admin rights, no registry writes are made. XLL can be loaded as a standard Excel Add-in via the developer ribbon tab.
+ xll add-in file requires no installation or admin rights, no registry writes are made. The add-in can be loaded as a standard Excel Add-in via the developer ribbon tab.
 
 ## Usage 
 * ...
