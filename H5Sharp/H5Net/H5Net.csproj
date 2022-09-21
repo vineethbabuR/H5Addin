@@ -85,6 +85,7 @@
       <DependentUpon>APIControls.cs</DependentUpon>
     </Compile>
     <Compile Include="Api\ApiTransactionInfo.cs" />
+    <Compile Include="Api\MMS301MI.cs" />
     <Compile Include="Api\MMS175MI.cs" />
     <Compile Include="Api\MOS070MI.cs" />
     <Compile Include="Api\MOS100MI.cs" />
